@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhisheksingh2606
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Data analtics
+- 💞️ I’m looking to collaborate on Data analytics
 - 📫 How to reach me singh.abhishek2627@gmail.com
 
 <!---
